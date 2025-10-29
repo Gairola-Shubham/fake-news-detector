@@ -4,7 +4,7 @@
 
 ## 📊 Dataset
 
-- Source: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+- Source: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/jainpooja/fake-news-detection)
 - Merged and labeled: `label = 1` for Fake, `label = 0` for Real
 - Preprocessed with URL removal, punctuation cleanup, and deduplication
 
